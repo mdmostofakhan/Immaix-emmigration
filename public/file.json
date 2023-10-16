@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "images": "https://jthemes.net/themes/wp/immiex/wp-content/themes/immiex/images/slider/slide-3.jpg",
+        "title": "High-Class Professionals",
+        "text": "WE’RE MOST TRUSTED IMMIGRATION AGENCY",
+        "letter": "Feugiat primis ligula risus auctor egestas augue mauri viverra tortor in iaculis placerat eugiat mauris ipsum in viverra tortor and gravida purus lorem in tortor",
+        "button": "WHAT WE DO"
+    },
+    {
+        "id": 2,
+        "images": "https://jthemes.net/themes/wp/immiex/wp-content/themes/immiex/images/slider/slide-2.jpg",
+        "title": " We have 20+ years experience in",
+        "text": "IMMIGRATION & VISA CONSULTATION",
+        "letter": "Feugiat primis ligula risus auctor egestas augue mauri viverra tortor in iaculis placerat eugiat mauris ipsum in viverra tortor and gravida purus lorem in tortor",
+        "button": "DISCOVER MORE"
+    },
+    {
+        "id": 3,
+        "images": "https://jthemes.net/themes/wp/immiex/wp-content/themes/immiex/images/slider/slide-1.jpg",
+        "title": "Welcome to ImmiEx Agency ",
+        "text": "WE MAKE THE VISA PROCESS FASTER",
+        "letter": "Feugiat primis ligula risus auctor egestas augue mauri viverra tortor in iaculis placerat eugiat mauris ipsum in viverra tortor and gravida purus lorem in tortor",
+        "button": "BOOK CONSULTATION NOW"
+    }
+]
