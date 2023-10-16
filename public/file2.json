@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "",
+        "title": "Education",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    },
+    {
+        "id": 2,
+        "icon": "",
+        "title": "Business Immigration",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    },
+    {
+        "id": 3,
+        "icon": "",
+        "title": "Skilled Immigration",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    },
+    {
+        "id": 4,
+        "icon": "",
+        "title": "Spouse/Family Visa",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    },
+    {
+        "id": 5,
+        "icon": "",
+        "title": "Tourist & Visitor Visa",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    },
+    {
+        "id": 6,
+        "icon": "",
+        "title": "Resident Return Visa",
+        "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
+    }
+]
