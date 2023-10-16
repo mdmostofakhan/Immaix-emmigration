@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "icon": "",
+        "icon": "bi:bank",
         "title": "Education",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     },
     {
         "id": 2,
-        "icon": "",
+        "icon": "et:wallet",
         "title": "Business Immigration",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     },
     {
         "id": 3,
-        "icon": "",
+        "icon": "raphael:settingsalt",
         "title": "Skilled Immigration",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     },
     {
         "id": 4,
-        "icon": "",
+        "icon": "cil:user",
         "title": "Spouse/Family Visa",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     },
     {
         "id": 5,
-        "icon": "",
+        "icon": "ic:outline-card-travel",
         "title": "Tourist & Visitor Visa",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     },
     {
         "id": 6,
-        "icon": "",
+        "icon": "clarity:world-solid",
         "title": "Resident Return Visa",
         "text": "Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta"
     }

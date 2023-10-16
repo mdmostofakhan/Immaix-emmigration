@@ -46,7 +46,7 @@ const Banner = () => {
 
               <div>
               <div
-              className='h-[680px] flex justify-center  items-center mt-6 bg-cover bg-no-repeat bg-opacity-40 '
+              className='h-[680px] flex justify-center  w-full md:items-center lg:items-center  mt-6 bg-cover bg-no-repeat bg-opacity-40 '
               style={{
                 backgroundImage: `url(${travel.images})`
                 
@@ -54,8 +54,8 @@ const Banner = () => {
               >
                 <div className='w-[60%] text-center'>
                 <p className='text-white  text-2xl mb-8 '>{travel.title}</p>
-                <p className='text-white text-8xl mb-8 font-bold  '>{travel.text}</p>
-                <p className='text-white opacity-70 mt-8 italic w-[70%] ml-32 text-xl font-medium '>{travel.letter}</p>
+                <p className='text-white text-8xl  mb-8 font-bold  '>{travel.text}</p>
+                <p className='text-white opacity-70 mt-8  md:mr-20 italic w-[70%] ml-32 text-xl font-medium '>{travel.letter}</p>
                    <button className='text-white mt-8 text-center bg-[rgb(255,69,0)]  border hover:bg-black w-60 rounded p-2  font-semibold  '>{travel.button}</button>
                
                 </div>
